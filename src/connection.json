@@ -1,0 +1,16 @@
+{
+  "history": [
+    {
+      "connection": true,
+      "startTime": 1593040610,
+      "endTime": 1593493614,
+      "duration": 453004
+    },
+    {
+      "connection": false,
+      "startTime": 1592931740,
+      "endTime": 1593040610,
+      "duration": 108870
+    }
+  ]
+}
